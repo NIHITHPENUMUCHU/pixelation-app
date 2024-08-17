@@ -30,15 +30,12 @@ To learn more about Next.js, take a look at the following resources:
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 
-Final Results/Summary:-
+## Final Results/Summary:-
 
 pixelation-app:
 
 It is a website that turns a normal picture into a pixelated picture and by using other website in my repository we can turn the pixelation into a cartoon picture Here is the link of the website i created using vercel:-
+
 https://pixelation-app.vercel.app/
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
