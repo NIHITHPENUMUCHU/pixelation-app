@@ -8,10 +8,6 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -32,7 +28,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Final Results/Summary:-
 
-pixelation-app:
+Pixelation-app:
 
 It is a website that turns a normal picture into a pixelated picture and by using other website in my repository we can turn the pixelation into a cartoon picture Here is the link of the website i created using vercel:-
 
