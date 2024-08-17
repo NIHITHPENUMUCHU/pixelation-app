@@ -35,3 +35,33 @@ It is a website that turns a normal picture into a pixelated picture and by usin
 https://pixelation-app.vercel.app/
 
 
+## example 1:-
+
+
+## Before:-
+
+![download (2)](https://github.com/user-attachments/assets/f2ba7470-076e-4c8b-b644-cefc405b8d20)
+
+## After using pixelation:-
+
+![image](https://github.com/user-attachments/assets/c6901b3a-0375-4a9c-8a20-00b19c0a0776)
+
+
+
+
+## example 2:-
+
+## Before:-
+
+![Candid click](https://github.com/user-attachments/assets/ccbcef36-f3fd-4366-b0cf-11791b7fef64)
+
+
+## After using Pixelation:-
+
+![image](https://github.com/user-attachments/assets/12741780-ae93-48bf-b984-4f488ce6df9c)
+
+
+
+
+
+
